@@ -1,0 +1,2 @@
+Prefix plugins/SAMTools/example/
+Plugin SAMTools inputfile alignment_sorted.bam outputfile alignment_sorted.bai
